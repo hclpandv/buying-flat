@@ -43,7 +43,7 @@ The List usually includes:
 - PAN Card of Seller/s
 - Cancelled Cheque from Seller
 
-3. In return the Buyer will give a Token Money of say a few thousand rupees ONLY (Max.10,000).....NEVER 10% ...and a Time period of 5-7 working days is taken for verification(using the copies provided)
+3. In return the Buyer will give a Token Money of say a few thousand rupees ONLY (Max.50,000).....NEVER 10% ...and a Time period of 5-7 working days is taken for verification(using the copies provided)
 
 4. These Copy of property are then submitted in bank (if loan) OR to hired lawyer to check in authority(if no loan), they will take approx 3-5 Working days for Verification and give a Nod to go ahead if all documents found clear. In case any document required ..The Seller has to Furnish it as soon as possible.
 
