@@ -17,5 +17,8 @@
 
 ![image](https://user-images.githubusercontent.com/13016162/53178299-9dbbf780-3617-11e9-9c2f-333127cc9e64.png)
 
+### Store Room `[Idea is to convert it into a modular closet]`
+
+![image](https://user-images.githubusercontent.com/13016162/53179095-140d2980-3619-11e9-9797-8815e6d89e43.png)
 
 
